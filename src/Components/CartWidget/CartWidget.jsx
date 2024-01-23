@@ -5,7 +5,7 @@ const [isHovered, setHovered] = useState(false);
 
 const cartButtonStyles = {
     border: '1px solid white',
-    backgroundColor: isHovered ? 'red' : 'transparent',
+    backgroundColor: isHovered ? 'blue' : 'transparent',
     color: 'white',
     transition: 'background-color 0.3s, color 0.3s',
 };
