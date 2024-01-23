@@ -39,7 +39,7 @@ return (
             <NavDropdown.Item href="#action/3.4">Recomendados</NavDropdown.Item>
             </NavDropdown>
 
-            <Nav.Link href="Carrito"style={{ marginLeft: 'auto' }}> <CartWidget /> </Nav.Link>
+            <Nav.Link href="Carrito"> <CartWidget /> </Nav.Link>
 
         </Nav>
         </Navbar.Collapse>
